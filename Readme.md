@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Window1.xaml](./CS/LayoutPanel_Content_Ex/Window1.xaml) (VB: [Window1.xaml](./VB/LayoutPanel_Content_Ex/Window1.xaml))
+<!-- default file list end -->
 # How to: Build a Layout of Controls within LayoutPanels
 
 

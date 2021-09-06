@@ -1,4 +1,4 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
+﻿Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 16
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LayoutPanel_Content_Ex", "LayoutPanel_Content_Ex\LayoutPanel_Content_Ex.Net5.vbproj", "{0FD3AE63-C13F-491D-9C93-ED4C52DC5C18}"
 EndProject

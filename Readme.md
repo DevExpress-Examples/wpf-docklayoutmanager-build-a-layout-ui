@@ -15,7 +15,7 @@ In the example, two [LayoutPanels](https://docs.devexpress.com/WPF/DevExpress.Xp
 <!-- default file list -->
 ## Files to Look At:
 
-* **[Window1.xaml](./CS/LayoutPanel_Content_Ex/Window1.xaml) (VB: [Window1.xaml](./VB/LayoutPanel_Content_Ex/Window1.xaml))**
+* [Window1.xaml](./CS/LayoutPanel_Content_Ex/Window1.xaml) (VB: [Window1.xaml](./VB/LayoutPanel_Content_Ex/Window1.xaml))
 <!-- default file list end -->
 
 ## Documentation

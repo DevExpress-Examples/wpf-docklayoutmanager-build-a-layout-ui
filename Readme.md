@@ -6,7 +6,7 @@
 # WPF Dock Layout Manager - Build a Layout UI
 
 
-This example shows how to arrange controls within [LayoutPanels](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.LayoutPanel) to build a layout UI.
+This example shows arranges controls within [LayoutPanels](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.LayoutPanel) to build a layout UI.
 
 In the example, two [LayoutPanels](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.LayoutPanel) contain controls that are wrapped into [LayoutControlItems](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.LayoutControlItem). The [LayoutControlItem](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.LayoutControlItem) objects are combined in [LayoutGroups](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.LayoutGroup).
 

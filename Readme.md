@@ -27,7 +27,7 @@ In the example, two [LayoutPanels](https://docs.devexpress.com/WPF/DevExpress.Xp
 
 - [WPF Dock Layout Manager - Move a Layout Item in Code](https://github.com/DevExpress-Examples/how-to-move-a-layout-item-in-code-e1895)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-docklayoutmanager-build-a-layout-ui&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-docklayoutmanager-build-a-layout-ui&~~~was_helpful=no)
 
